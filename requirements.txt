@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+
+Install these four libraries using Pip
