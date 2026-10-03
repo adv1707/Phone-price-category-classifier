@@ -34,3 +34,6 @@ Features are :
 # Note
 This is a project made to compare the working of the three main classification models (not including Naive Bayes) .
 You can also tune the hyper-parameters if you like to .
+
+# Update!
+Added one more Model ie Decision Tree classifier onto this and also along with cross validation score also .
